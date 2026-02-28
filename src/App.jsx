@@ -1,10 +1,4 @@
-/*
-  Seguir -> https://cursoreact.dev/02-use-state-use-effect
-  (1:16:01)
-
-*/
-
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import confetti from "canvas-confetti";
 import { WinnerModal } from "./components/WinnerModal";
 import { Square } from "./components/Square";
